@@ -1,0 +1,23 @@
+{
+  "description": "An auto-generated demo by dumi",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/pro-components": "2.5.5",
+    "antd": "5.8.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^4"
+  },
+  "keywords": [],
+  "name": "users-table",
+  "version": "0.0.5",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
